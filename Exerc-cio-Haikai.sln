@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc-cio-Haikai", "Exerc-cio-Haikai.csproj", "{40A4B77A-613A-4FEC-9BA4-3353E2231849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A4B77A-613A-4FEC-9BA4-3353E2231849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A4B77A-613A-4FEC-9BA4-3353E2231849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A4B77A-613A-4FEC-9BA4-3353E2231849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A4B77A-613A-4FEC-9BA4-3353E2231849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CC6705-6DA6-4C65-9790-E01D4CAC31CB}
+	EndGlobalSection
+EndGlobal
